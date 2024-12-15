@@ -7,7 +7,8 @@
 
 Descripción
 
-<strong>Conversor de Moneda </strong> es una aplicacion de consola desarrollada totalemte en Java
+<strong>Conversor de Moneda </strong> es una aplicacion de consola desarrollada totalemte en Java,
+interactiva con el usuario,mediante entrada de teclado,
 que hace conversiones entre monedas(divisas) que son consumidas desde una api externa(exchangerate-api) en tiempo real
 
 ## :hammer:Funcionalidades del proyecto
@@ -17,7 +18,7 @@ tiene un seteo automatico de conversiones ,entre divisas, USD,ARS,COL,BRL
 -aqui el usuario solo debe seleccionar la opcion y especificar el monto a convertir.
 
 
-`Funcionalidad 7`: esta parte es automatica,
+`Funcionalidad 7`: esta parte es manual,
 el usuario debe especificar tipo de moneda de origen,
 tipo de moneda destino y monto.
 
